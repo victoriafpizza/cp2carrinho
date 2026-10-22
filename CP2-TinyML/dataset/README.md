@@ -1,0 +1,2 @@
+## CSVs reais pendentes
+Não foram inventados CSVs nem importados dados de outra origem. Exporte CSVs originais do Edge Impulse ou use o script de coleta com o ESP32 real. A frequência publicada do projeto é 100 Hz. Formato produzido: timestamp_ms,adc_bruto,valor_sensor,classe. Para reimportação no EI, configure o CSV Wizard conforme o eixo `Valor_sensor` e frequência correspondente; evite vazamento de janelas entre conjuntos de treino e teste.

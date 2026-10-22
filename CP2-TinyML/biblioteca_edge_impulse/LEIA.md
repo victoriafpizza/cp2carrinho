@@ -1,0 +1,1 @@
+A biblioteca compilável `CarrinhoLuz_inferencing` NÃO está no pacote: o link público não fornece automaticamente o arquivo Arduino ZIP neste ambiente. No Edge Impulse (com acesso ao projeto), use Deployment > Arduino library > Build, baixe a biblioteca e instale-a no Arduino IDE. Não substitua por cabeçalho inventado.

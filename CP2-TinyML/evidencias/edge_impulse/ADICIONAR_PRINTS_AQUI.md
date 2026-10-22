@@ -1,0 +1,1 @@
+Adicione capturas reais: dataset/split; Create Impulse; bloco DSP; treinamento; matriz de confusão; model testing; deployment Arduino. Não inserir imagens geradas como evidência de plataforma.
